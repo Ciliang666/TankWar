@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{3710F13A-37D4-D58C-EF1A-41D44817C154}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MapCreator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="88" Column="1" />
+      <File FileName="Assets/Scripts/Bullet.cs" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="26" Column="28" />
+      <File FileName="Assets/Scripts/Born.cs" />
+      <File FileName="Assets/Scripts/MapCreator.cs" Line="27" Column="43" />
+      <File FileName="Assets/Scripts/PlayerManager.cs" />
+      <File FileName="Assets/Scripts/Option.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TankWar" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MapCreator.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="120b94bc-c427-48e6-a78f-bd156d6612ef" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
